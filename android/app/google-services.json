@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "826381084764",
+    "firebase_url": "https://cng-protect-default-rtdb.firebaseio.com",
+    "project_id": "cng-protect",
+    "storage_bucket": "cng-protect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826381084764:android:1faf29fa6bc5b8d89b1e99",
+        "android_client_info": {
+          "package_name": "CNG.Protect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVK5F-wcrpVTqCcFdb1hiDSq5xnY4szQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:826381084764:android:5cef7995eadc28fe9b1e99",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVK5F-wcrpVTqCcFdb1hiDSq5xnY4szQY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
